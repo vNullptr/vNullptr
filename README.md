@@ -1,11 +1,12 @@
 # Hi there 👋, I'm Rayan
 <p float="left">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0Y3h2eWlibDh4dTd6dXNzbWZkaWszMXpueDhyZHEwejkxNzg0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnjEFmivkL0cfDi/giphy.gif" width="150" style="margin-right: 20px;">
   <span>
     I'm a third-year engineering student lazy but passionate about creating, coding.
     I enjoy building projects that blend creativity and practicality, from web apps to engines.  
   </span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp0Y3h2eWlibDh4dTd6dXNzbWZkaWszMXpueDhyZHEwejkxNzg0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiTnjEFmivkL0cfDi/giphy.gif" width="150" style="margin-right: 20px;">
 </p>
+
 ---
 
 ## 🛠 Skills
