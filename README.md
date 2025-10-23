@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rayan
 
-![Header GIF](path-to-your-gif.gif)
+![Header GIF]([path-to-your-gif.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODF6MmhxYzhidGVqMDR4Mm1hNHNoc2tpb2Q2OHFzY3I1cDU0MWQwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cYf4OoUU4YZ0wIVWk3/giphy.gif))
 
 ## About Me
 I'm a third-year engineering student lazy but passionate about creating, coding.
@@ -9,11 +9,8 @@ I enjoy building projects that blend creativity and practicality, from web apps 
 ---
 
 ## 🛠 Skills
-<!-- Add your skill icons here -->
-| Frontend | Backend | Tools | Languages |
-|----------|---------|-------|-----------|
-| ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,go,py,lua,ts,,flask,react,vite,regex,cmake,neovim,vim,vscode,clion,figma,git,github,linux)](https://skillicons.dev)
+
 
 ---
 <!--
