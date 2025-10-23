@@ -3,8 +3,8 @@
 ![Header GIF](path-to-your-gif.gif)
 
 ## About Me
-I'm a second-year computer science engineering student passionate about creating, coding, and exploring new technologies.  
-I enjoy building projects that blend creativity and practicality, from web apps to game mechanics.  
+I'm a third-year engineering student lazy but passionate about creating, coding.
+I enjoy building projects that blend creativity and practicality, from web apps to engines.  
 
 ---
 
