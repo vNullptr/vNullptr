@@ -9,7 +9,7 @@ I'm a third-year engineering student lazy but passionate about creating, coding.
 ---
 
 ## 👇 Current Work
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=go-webscrapper&bg_color=000000&title_color=31067A&text_color=a4aacb&icon_color=31067A)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=go-webscraper&bg_color=000000&title_color=31067A&text_color=a4aacb&icon_color=31067A)
 <!--
 ## 📂 Projects
 ### Project 1
