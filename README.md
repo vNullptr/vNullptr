@@ -1,10 +1,6 @@
+[test](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanB5dGV5c25hOHZmN2RrbGxoYnd4dHpodzQ5NDFkZXoyemlqaTkwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oxHQzwpHjamCWlEje/giphy.gif)
+
 # Hi there 👋, I'm Rayan
-<p>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZ1eDF1cGhweXdia3h3Y3dyd2RzdHM5NjA5OTA4cjZndm9pZWJkNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WijZyAuUL3nOM/giphy.gif" width="400" style="margin-right: 20px;">
-</p>
-
----
-
 ## About me
 I'm a third-year engineering student lazy but passionate about creating, coding. I enjoy building projects that blend creativity and practicality, from web apps to engines.
 
