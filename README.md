@@ -6,8 +6,10 @@ I'm a third-year engineering student lazy but passionate about creating, coding.
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,go,py,lua,ts,flask,react,vite,regex,cmake,neovim,vim,vscode,clion,figma,git,github,linux)](https://skillicons.dev)
 
-
 ---
+
+## 👇 Current Work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=go-webscrapper&bg_color=000000&title_color=31067A&text_color=a4aacb&icon_color=31067A)]
 <!--
 ## 📂 Projects
 ### Project 1
@@ -27,11 +29,10 @@ I'm a third-year engineering student lazy but passionate about creating, coding.
 **Description:** Short description of the project.  
 **Tech used:** List of technologies  
 [Live Demo](#) | [GitHub](#)
--->
 
 ---
-
-<!-- ## 📫 Contact Me
+ 
+ ## 📫 Contact Me
 You can reach me via:  
 - Email: your.email@example.com  
 - LinkedIn: [Your LinkedIn](#)  
