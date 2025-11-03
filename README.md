@@ -4,7 +4,7 @@
 I'm a third-year engineering student lazy but passionate about creating, coding. I enjoy building projects that blend creativity and practicality, from web apps to engines.
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,go,py,lua,ts,flask,react,vite,regex,cmake,neovim,vim,vscode,clion,figma,git,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,go,py,lua,ts,nodejs,flask,react,vite,regex,cmake,neovim,vim,vscode,clion,figma,git,github,linux&perline=6)](https://skillicons.dev)
 
 ---
 
