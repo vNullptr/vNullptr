@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Rayan
-## 👀 About me
 I'm a third-year engineering student lazy but passionate about creating, coding. I enjoy building projects that blend creativity and practicality, from web apps to engines.
 
 ## 🛠 Skills
