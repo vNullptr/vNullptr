@@ -1,42 +1,98 @@
-# Hi there 👋, I'm Rayan
-I'm a third-year engineering student lazy but passionate about creating, coding. I enjoy building projects that blend creativity and practicality, from web apps to engines.
+<div align="center">
 
-## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,go,py,lua,ts,nodejs,flask,react,vite,regex,cmake,neovim,vim,vscode,clion,figma,git,github,linux&perline=6)](https://skillicons.dev)
+# - ryn -
 
----
+<sub>3rd year engineering · data science & ai · 🇲🇦</sub>
 
-## 👇 Currently Working on
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=go-webscraper&bg_color=000000&title_color=ffffff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/vNullptr/go-webscraper) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=gest-pfe&bg_color=000000&title_color=ffffff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/vNullptr/gest-pfe) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vNullPtr&repo=gest-stock&bg_color=000000&title_color=ffffff&text_color=a4aacb&icon_color=a4aacb)](https://github.com/vNullptr/gest-stock) 
-<!--
-## 📂 Projects
-### Project 1
-![Project GIF](path-to-gif.gif)
-**Description:** Short description of the project.  
-**Tech used:** List of technologies  
-[Live Demo](#) | [GitHub](#)
+<br>
 
-### Project 2
-![Project GIF](path-to-gif.gif)
-**Description:** Short description of the project.  
-**Tech used:** List of technologies  
-[Live Demo](#) | [GitHub](#)
+<img src="./drops.svg" width="340" />
 
-### Project 3
-![Project GIF](path-to-gif.gif)
-**Description:** Short description of the project.  
-**Tech used:** List of technologies  
-[Live Demo](#) | [GitHub](#)
+<br>
 
----
- 
- ## 📫 Contact Me
-You can reach me via:  
-- Email: your.email@example.com  
-- LinkedIn: [Your LinkedIn](#)  
-- Twitter: [@yourhandle](#)
--->
+```text
+building quietly. shipping eventually.
+```
+
+<br>
+
+<a href="https://discord.com/users/285094976407207936">
+  <img src="https://img.shields.io/badge/discord-%40nevnt-1a1a1a?style=for-the-badge&logo=discord&logoColor=e6e6e6&labelColor=0d1117" />
+</a>
+
+<br><br>
 
 ---
 
-✨ *“Turning ideas into code, one project at a time.”*
+<h3>◦ now ◦</h3>
+
+<table>
+  <tr>
+    <td><sub><b>focus</b></sub></td>
+    <td><sub>data science · ml · ai engineering</sub></td>
+  </tr>
+  <tr>
+    <td><sub><b>learning</b></sub></td>
+    <td><sub>scikit-learn → neural networks</sub></td>
+  </tr>
+  <tr>
+    <td><sub><b>building</b></sub></td>
+    <td><sub>between projects</sub></td>
+  </tr>
+  <tr>
+    <td><sub><b>reading</b></sub></td>
+    <td><sub>pandas docs at 2am again</sub></td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<h3>◦ stack ◦</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,go,ts,js,lua&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,vite&theme=dark&perline=8" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,clion,docker,figma&theme=dark&perline=8" />
+</p>
+
+<br>
+
+---
+
+<h3>◦ stats ◦</h3>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vNullptr&theme=transparent&hide_border=true&background=0D1117&stroke=1a1a1a&ring=e6e6e6&fire=e6e6e6&currStreakLabel=8b8b8b&sideLabels=8b8b8b&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8b8b8b" />
+</p>
+
+<br>
+
+---
+
+<h3>◦ pinned ◦</h3>
+
+<table>
+  <tr>
+    <td align="center" width="100%">
+      <a href="https://github.com/vNullptr/go-webscraper">
+        <b>⤷ go-webscraper</b>
+      </a>
+      <br>
+      <sub>concurrent web scraping in go</sub>
+      <br><br>
+      <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<sub>~ <i>calm by nature. precise by choice.</i> ~</sub>
+
+</div>
