@@ -5,9 +5,6 @@
 <sub>3rd year engineering · data science & ai · 🇲🇦</sub>
 
 <br>
-
-<img src="./custom_drops.svg" width="340" />
-
 <br>
 
 ```text
