@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="./drops.svg" width="340" />
+<img src="./custom_drops.svg" width="340" />
 
 <br>
 
