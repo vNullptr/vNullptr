@@ -79,7 +79,7 @@ building quietly. shipping eventually.
         <b>⤷ go-webscraper</b>
       </a>
       <br>
-      <sub>concurrent web scraping in go</sub>
+      <sub>concurrent web scraping in go ( work in progress )</sub>
       <br><br>
       <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
     </td>
