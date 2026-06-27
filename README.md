@@ -2,13 +2,13 @@
 
 # - ryn -
 
-<sub>3rd year engineering · data science & ai · 🇲🇦</sub>
+<sub>3rd year engineering · ai · 🇲🇦</sub>
 
 <br>
 <br>
 
 ```text
-building quietly. shipping eventually.
+building quietly. shipping steadily.
 ```
 
 <br>
@@ -26,11 +26,11 @@ building quietly. shipping eventually.
 <table>
   <tr>
     <td><sub><b>focus</b></sub></td>
-    <td><sub>data science · ml · ai engineering</sub></td>
+    <td><sub>ai engineering · llms</sub></td>
   </tr>
   <tr>
     <td><sub><b>learning</b></sub></td>
-    <td><sub>scikit-learn → neural networks</sub></td>
+    <td><sub>rag · embeddings · transformers</sub></td>
   </tr>
   <tr>
     <td><sub><b>building</b></sub></td>
@@ -38,7 +38,7 @@ building quietly. shipping eventually.
   </tr>
   <tr>
     <td><sub><b>reading</b></sub></td>
-    <td><sub>pandas docs at 2am again</sub></td>
+    <td><sub>langchain docs at 2am again</sub></td>
   </tr>
 </table>
 
@@ -79,7 +79,7 @@ building quietly. shipping eventually.
         <b>⤷ go-webscraper</b>
       </a>
       <br>
-      <sub>concurrent web scraping in go ( work in progress )</sub>
+      <sub>concurrent web scraping in go ( work paused )</sub>
       <br><br>
       <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
     </td>
