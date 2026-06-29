@@ -79,20 +79,6 @@ building quietly. shipping steadily.
 <table>
   <tr>
     <td align="center" width="100%">
-      <a href="https://github.com/vNullptr/go-webscraper">
-        <b>⤷ go-webscraper</b>
-      </a>
-      <br>
-      <sub>concurrent web scraping in go ( work paused )</sub>
-      <br><br>
-      <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="100%">
         <a href="https://github.com/vNullptr/gdpr_qa_rag">
           <b>⤷ GDPR Q&A</b>
         </a>
