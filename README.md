@@ -87,6 +87,15 @@ building quietly. shipping steadily.
         <br><br>
         <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
       </td>
+    <td align="center" width="100%">
+        <a href="https://github.com/vNullptr/ai_jira_assistant">
+          <b>⤷ Jira Assistant</b>
+        </a>
+        <br>
+        <sub>Grounded document Q&A over the EU GDPR ( in progress )</sub>
+        <br><br>
+        <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
+      </td>
   </tr>  
 </table>
 
