@@ -83,7 +83,7 @@ building quietly. shipping steadily.
           <b>⤷ GDPR Q&A</b>
         </a>
         <br>
-        <sub>Grounded document Q&A over the EU GDPR ( in progress )</sub>
+        <sub>Grounded document Q&A over the EU GDPR ( paused )</sub>
         <br><br>
         <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
       </td>
@@ -92,7 +92,7 @@ building quietly. shipping steadily.
           <b>⤷ Jira Assistant</b>
         </a>
         <br>
-        <sub>Grounded document Q&A over the EU GDPR ( in progress )</sub>
+        <sub>Jira issue summarizing + referencing AI assistant ( in progress )</sub>
         <br><br>
         <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
       </td>
