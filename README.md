@@ -78,7 +78,7 @@ building quietly. shipping steadily.
 
 <table>
   <tr>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
         <a href="https://github.com/vNullptr/gdpr_qa_rag">
           <b>⤷ GDPR Q&A</b>
         </a>
@@ -87,7 +87,7 @@ building quietly. shipping steadily.
         <br><br>
         <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
       </td>
-    <td align="center" width="100%">
+    <td align="center" width="50%">
         <a href="https://github.com/vNullptr/ai_jira_assistant">
           <b>⤷ Jira Assistant</b>
         </a>
