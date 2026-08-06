@@ -85,7 +85,7 @@ building quietly. shipping steadily.
         <br>
         <sub>Grounded document Q&A over the EU GDPR ( paused )</sub>
         <br><br>
-        <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
+        <img src="https://img.shields.io/badge/py-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
       </td>
     <td align="center" width="50%">
         <a href="https://github.com/vNullptr/ai_jira_assistant">
@@ -94,7 +94,7 @@ building quietly. shipping steadily.
         <br>
         <sub>Jira issue summarizing + referencing AI assistant ( in progress )</sub>
         <br><br>
-        <img src="https://img.shields.io/badge/go-1a1a1a?style=flat-square&logo=go&logoColor=e6e6e6" />
+        <img src="https://img.shields.io/badge/py-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
       </td>
   </tr>  
 </table>
