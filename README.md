@@ -2,7 +2,7 @@
 
 # - ryn -
 
-<sub>3rd year engineering · ai · 🇲🇦</sub>
+<sub>4th year engineering · ai · 🇲🇦</sub>
 
 <br>
 <br>
