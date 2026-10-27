@@ -1,0 +1,81 @@
+# ─────────────────────────────────────────────────────────────────────
+#  profile.toml · single source of truth for the profile cards
+#  edit this file → push → the workflow re-renders assets/*.svg
+#  (or run `python scripts/render.py` locally, stdlib only, py 3.11+)
+# ─────────────────────────────────────────────────────────────────────
+
+user = "vNullptr"
+
+[header]
+title = "ryn@vnullptr: ~"
+name  = "rayan"
+alias = "ryn"
+lines = [
+  "4th-year ai engineering · morocco",
+  "llms · rag · agents · ml from first principles",
+]
+motto = "building quietly. shipping steadily."
+# causal attention over the motto tokens: row i = token i attending to tokens 0..i
+# (optional; remove it and weights are generated from the motto)
+attention = [
+  [1.00],
+  [0.35, 0.65],
+  [0.15, 0.55, 0.30],
+  [0.62, 0.08, 0.10, 0.20],
+  [0.06, 0.58, 0.04, 0.22, 0.10],
+  [0.08, 0.10, 0.36, 0.14, 0.12, 0.20],
+]
+
+# ── now ─────────────────────────────────────────────────────────────
+# state: active (pulsing dot) · open (ripple) · idle (hollow)
+
+[[now]]
+label  = "learning"
+title  = "ml from scratch"
+detail = "reading islp, coding each section as i go"
+meta   = "islp · ch.3 → ch.4"
+state  = "active"
+
+[[now]]
+label  = "seeking"
+title  = "summer 2027 internship"
+detail = "ai · data · ml  ·  jul – aug 2027  ·  morocco or abroad"
+meta   = "open"
+state  = "open"
+
+# ── projects ────────────────────────────────────────────────────────
+# status dot: filled for anything except "paused" / "archived"
+
+[[projects]]
+repo   = "ai_jira_assistant"
+title  = "issue assist"
+status = "mvp shipped"
+desc   = ["llm assistant for jira service management.", "built during my internship at hps."]
+flow   = ["/assist", "queue", "llm", "comment"]
+tags   = ["fastapi", "postgres", "ollama", "langfuse"]
+
+[[projects]]
+repo   = "gdpr_qa_rag"
+title  = "gdpr q&a"
+status = "paused"
+desc   = ["grounded q&a over the eu gdpr.", "cites its sources, measured with ragas."]
+flow   = ["question", "retrieve", "llm", "cited answer"]
+tags   = ["langchain", "chroma", "ragas", "fastapi"]
+
+# ── stack ───────────────────────────────────────────────────────────
+
+[stack]
+ai      = ["langchain", "langfuse", "ragas", "qdrant", "ollama", "azure-openai"]
+backend = ["python", "fastapi", "pydantic", "postgres", "docker"]
+ml      = ["numpy", "islp"]
+langs   = ["c", "c++", "c#", "go", "ts", "lua"]
+tools   = ["linux", "git", "neovim", "obsidian"]
+
+# [stack_notes]   # optional trailing comments, e.g.  ml = "learning"
+
+# ── log ─────────────────────────────────────────────────────────────
+# latest commits across public repos, refreshed daily by the workflow
+
+[log]
+count   = 6
+exclude = ["vNullptr"]

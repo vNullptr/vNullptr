@@ -1,0 +1,65 @@
+name: profile
+
+# re-renders assets/*.svg from profile.toml, refreshes the commit log card,
+# and rebuilds the contribution snake on the `output` branch.
+
+on:
+  push:
+    branches-ignore: [output]
+  schedule:
+    - cron: "17 3 * * *" # daily, 03:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0 # the "updated" date comes from git history of profile.toml
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: render cards
+        run: python scripts/render.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: commit if anything changed
+        run: |
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "cards unchanged"; exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore(profile): re-render cards"
+          git pull --rebase
+          git push
+
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?color_snake=#1f2328&color_dots=#eff2f5,#d1d9e0,#afb8c1,#818b98,#59636e
+            dist/snake-dark.svg?palette=github-dark&color_snake=#e6edf3&color_dots=#161b22,#21262d,#30363d,#656c76,#9198a1
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

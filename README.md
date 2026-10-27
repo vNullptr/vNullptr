@@ -1,109 +1,56 @@
 <div align="center">
 
-# - ryn -
-
-<sub>4th year engineering · ai · 🇲🇦</sub>
-
-<br>
-<br>
-
-```text
-building quietly. shipping steadily.
-```
-
-<br>
-
-<a href="https://discord.com/users/285094976407207936">
-  <img src="https://img.shields.io/badge/discord-%40nevnt-1a1a1a?style=for-the-badge&logo=discord&logoColor=e6e6e6&labelColor=0d1117" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="ryn, rayan. 4th-year ai engineering student, morocco. llms, rag, agents, and ml from first principles. building quietly. shipping steadily.">
+</picture>
 
 <br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg">
+  <img src="assets/now-light.svg" width="100%" alt="now: learning ml from scratch (reading islp), seeking a summer 2027 ai/data/ml internship (jul to aug, morocco or abroad).">
+</picture>
 
-<h3>◦ now ◦</h3>
+<br><br>
 
-<table>
-  <tr>
-    <td><sub><b>focus</b></sub></td>
-    <td><sub>ai engineering · llms</sub></td>
-  </tr>
-  <tr>
-    <td><sub><b>learning</b></sub></td>
-    <td><sub>rag · embeddings · transformers</sub></td>
-  </tr>
-  <tr>
-    <td><sub><b>building</b></sub></td>
-    <td><sub>between projects</sub></td>
-  </tr>
-  <tr>
-    <td><sub><b>reading</b></sub></td>
-    <td><sub>langchain docs at 2am again</sub></td>
-  </tr>
-</table>
+<a href="https://github.com/vNullptr/ai_jira_assistant"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-ai_jira_assistant-dark.svg">
+  <img src="assets/project-ai_jira_assistant-light.svg" width="49%" alt="issue assist: llm assistant for jira service management, built during my internship at hps. mvp shipped.">
+</picture></a>
+<a href="https://github.com/vNullptr/gdpr_qa_rag"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-gdpr_qa_rag-dark.svg">
+  <img src="assets/project-gdpr_qa_rag-light.svg" width="49%" alt="gdpr q&a: grounded rag over the eu gdpr with citations, evaluated with ragas. paused.">
+</picture></a>
 
-<br>
+<br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="stack: langchain, langfuse, ragas, qdrant, ollama, azure openai, python, fastapi, pydantic, postgres, docker, numpy, c, c++, c#, go, typescript, lua, linux, git, neovim, obsidian.">
+</picture>
 
-<h3>◦ stack ◦</h3>
+<br><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,cs,go,ts,js,lua&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,vite&theme=dark&perline=8" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,neovim,vscode,clion,docker,figma&theme=dark&perline=8" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/log-dark.svg">
+  <img src="assets/log-light.svg" width="100%" alt="latest commits across my public repos, refreshed daily.">
+</picture>
 
-<br>
+<br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vNullptr/vNullptr/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/vNullptr/vNullptr/output/snake-light.svg" width="100%" alt="contribution graph being eaten by a snake">
+</picture>
 
-<h3>◦ stats ◦</h3>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vNullptr&theme=transparent&hide_border=true&background=0D1117&stroke=1a1a1a&ring=e6e6e6&fire=e6e6e6&currStreakLabel=8b8b8b&sideLabels=8b8b8b&currStreakNum=e6e6e6&sideNums=e6e6e6&dates=8b8b8b" />
-</p>
-
-<br>
-
----
-
-<h3>◦ pinned ◦</h3>
-
-<div>
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-        <a href="https://github.com/vNullptr/gdpr_qa_rag">
-          <b>⤷ GDPR Q&A</b>
-        </a>
-        <br>
-        <sub>Grounded document Q&A over the EU GDPR ( paused )</sub>
-        <br><br>
-        <img src="https://img.shields.io/badge/py-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
-      </td>
-    <td align="center" width="50%">
-        <a href="https://github.com/vNullptr/ai_jira_assistant">
-          <b>⤷ Jira Assistant</b>
-        </a>
-        <br>
-        <sub>Jira issue summarizing + referencing AI assistant ( in progress )</sub>
-        <br><br>
-        <img src="https://img.shields.io/badge/py-1a1a1a?style=flat-square&logo=python&logoColor=e6e6e6" />
-      </td>
-  </tr>  
-</table>
-
-
-<br>
-
----
+<br><br>
 
 <sub>~ <i>calm by nature. precise by choice.</i> ~</sub>
 
 </div>
+
+<!--
+  everything above is rendered from profile.toml by scripts/render.py.
+  to update the cards: edit profile.toml and push. the workflow does the rest.
+-->
